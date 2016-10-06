@@ -20,7 +20,7 @@ dependencies {
 
 Note:
 
-1. Add this in depedencies in project gradle
+* Add this in depedencies in project gradle
 ```
 dependencies {
     ...
@@ -30,7 +30,7 @@ dependencies {
 }
 ```
 
-2. Apply plugin in Module app
+* Apply plugin in Module app
 ```
 apply plugin: 'com.neenbedankt.android-apt'
 ```
